@@ -1,4 +1,4 @@
-Tic-Tac-Toe with and without a Bot
+## Tic-Tac-Toe with and without a Bot
 
 This repository contains a Python implementation of the classic Tic-Tac-Toe game, featuring both player-versus-player and player-versus-AI modes. The AI opponent utilizes a minimax algorithm to make optimal moves.
 
