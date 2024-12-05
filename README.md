@@ -10,8 +10,8 @@ This repository contains a Python implementation of the classic Tic-Tac-Toe game
 
 ## Screenshots:
 
-![screenshot](imageFolder/Screenshot 2024-12-05 143308.png)
-![screenshot](imageFolder/Screenshot 2024-12-05 143401.png)
+[screenshot](imageFolder/Screenshot 2024-12-05 143308.png)
+[screenshot](imageFolder/Screenshot 2024-12-05 143401.png)
 
 
 Installation:
