@@ -19,6 +19,7 @@ Installation:
 1. Clone the repository: git clone https://github.com/Lesaght/Tic-Tac-toe-with-and-without-a-bot.git
 2. Navigate to the project directory: cd Tic-Tac-toe-with-and-without-a-bot
 3. Run the main script: python main.py
+4. Run start.bat
 
 
 ## Built With
@@ -31,11 +32,3 @@ Installation:
 
 Contributions are welcome! Please feel free to open issues or submit pull requests.
 
-
-Start
-
-Start start.bat
-
-and
-
-run file main.py (python main.py)
