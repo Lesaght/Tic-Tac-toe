@@ -22,7 +22,7 @@
 
 | Главное меню | Игровой процесс | Победа! |
 |--------------|-----------------|---------|
-| ![Меню](https://raw.githubusercontent.com/Lesaght/Tic-Tac-toe-with-and-without-a-bot/main/menu.png) | ![Геймплей](https://raw.githubusercontent.com/Lesaght/Tic-Tac-toe-with-and-without-a-bot/main/gameplay.png) | ![Победа](https://raw.githubusercontent.com/Lesaght/Tic-Tac-toe-with-and-without-a-bot/main/victory.png) |
+| ![Меню](https://raw.githubusercontent.com/Lesaght/Tic-Tac-toe-with-and-without-a-bot/image) | ![Геймплей](https://raw.githubusercontent.com/Lesaght/Tic-Tac-toe-with-and-without-a-bot/main/gameplay.png) | ![Победа](https://raw.githubusercontent.com/Lesaght/Tic-Tac-toe-with-and-without-a-bot/main/victory.png) |
 
 ## 🚀 Установка и запуск
 
