@@ -28,8 +28,8 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/Lesaght/Tic-Tac-toe-with-and-without-a-bot.git
-cd Tic-Tac-toe-with-and-without-a-bot
+git clone https://github.com/Lesaght/Tic-Tac-toe.git
+cd Tic-Tac-toe
 ```
 
 2. Запустите нужный режим:
