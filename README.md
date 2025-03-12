@@ -22,7 +22,7 @@
 
 | Главное меню | Игровой процесс | Победа! |
 |--------------|-----------------|---------|
-| ![Меню](https://raw.githubusercontent.com/Lesaght/Tic-Tac-toe/image) | ![Геймплей](https://raw.githubusercontent.com/Lesaght/Tic-Tac-toe/main/gameplay.png) | ![Победа](https://raw.githubusercontent.com/Lesaght/Tic-Tac-toe/main/victory.png) |
+| ![Меню](https://raw.githubusercontent.com/Lesaght/Tic-Tac-toe/imageFolder/Screenshot%202024-12-05%20143308.png) | ![Геймплей](https://raw.githubusercontent.com/Lesaght/Tic-Tac-toe/main/gameplay.png) | ![Победа](https://raw.githubusercontent.com/Lesaght/Tic-Tac-toe/main/victory.png) |
 
 ## 🚀 Установка и запуск
 
