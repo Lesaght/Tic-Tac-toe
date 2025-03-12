@@ -1,7 +1,7 @@
 # 🎮 Tic-Tac-Toe: Играй с другом или против бота! 🤖
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://python.org)
-[![License](https://img.shields.io/badge/License-MIT-green)]([LICENSE](https://github.com/Lesaght/Tic-Tac-toe/blob/main/LICENSE.md))
+[![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/Lesaght/Tic-Tac-toe/blob/main/LICENSE.md)
 [![GitHub repo size](https://img.shields.io/github/repo-size/Lesaght/Tic-Tac-toe-with-and-without-a-bot)](https://github.com/Lesaght/Tic-Tac-toe-with-and-without-a-bot)
 
 Классическая игра в крестики-нолики с двумя режимами: против друга или против умного бота! Написана на чистом Python 🐍 без внешних зависимостей.
