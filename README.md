@@ -49,4 +49,4 @@ python main.py
   <p>Сделано с ❤️ и 🐍</p>
   <p>Вопросы и предложения: <a href="https://github.com/Lesaght">Lesaght</a></p>
 </div>
-```
+
